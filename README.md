@@ -1,1 +1,1 @@
-# feign-bot
+# Feign discord bot
